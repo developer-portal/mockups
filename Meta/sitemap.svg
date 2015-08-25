@@ -15,7 +15,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="sitemap.svg">
+   sodipodi:docname="sitemap.svg"
+   inkscape:export-filename="/home/duffy/SparkleShare/mockups/Meta/sitemap.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -26,8 +29,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="701.23326"
-     inkscape:cy="419.72346"
+     inkscape:cx="467.23326"
+     inkscape:cy="411.72346"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -47,7 +50,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -56,6 +59,13 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-62.36221)">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect26012"
+       width="1261"
+       height="996"
+       x="1"
+       y="62.362209" />
     <circle
        r="32.068302"
        cy="560.5658"
